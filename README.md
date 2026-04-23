@@ -12,3 +12,5 @@ all my project notes and ideas i want to try
 - cybersecurity
 - HTML, CSS & JS
 - excel
+- security+
+- network+
