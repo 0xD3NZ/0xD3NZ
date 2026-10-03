@@ -1,4 +1,4 @@
-# developer-logs
+# Pentester-logs
 Cybersecurity Projects,Research & Tools
 
 ## study notes & tips
