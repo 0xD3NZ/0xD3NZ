@@ -1,16 +1,27 @@
 # developer-logs
-all my project notes and ideas i want to try
+Cybersecurity Projects,Research & Tools
 
 ## study notes & tips
+- Finish all Portswigger Labs
+- Finish all apisec university course for API Security
+- PentesterLab.com
+- WeChall Labs
+- Overthewire:Wargames
+- HTB and THM paths
 
 
-### ideas of projects to create 
-- my own website as a portfolio as well that describes everything about me to recruiters and non-recruiters and more
-- example of a commerce store
+### Cybersecurity Projects 
+- Build Home Lab
+- Write my own automation scripts
+  
 
-## tech course i need to master
-- cybersecurity
-- HTML, CSS & JS
-- excel
-- security+
-- network+
+## Cybersecurity Courses
+- Linux Fundamenetals
+- Networking Fundamentals
+- Penetration Testing Theory
+- Learning basic Web App Vulnerabilities
+- API Security & OWASP API Security Top 10
+- OWASP Web Top 10
+- Active Directory
+- Cloud Security
+- Red Teaming
