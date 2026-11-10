@@ -1,4 +1,5 @@
-# Denzel Mbirize
+# Denzel Mbirize                     <a href="https://linkedin.com/in/denzel-mbirize"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
 I'm a cybersecurity practitioner focused on identifying vulnerabilities, understanding application behavior, and exploring offensive security techniques. My work revolves around API security, web application security, penetration testing, and security research.
 
 ## Objective
