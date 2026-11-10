@@ -45,4 +45,4 @@ Linux & Infrastructure Security
 - bash,python,javascript
 
 ### Connect🔗         
-email:mbirizedenzel@gmail.com | GitHub:@0xD3NZ
+email : mbirizedenzel@gmail.com
