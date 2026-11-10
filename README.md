@@ -2,12 +2,12 @@
  
 I'm a cybersecurity practitioner focused on identifying vulnerabilities, understanding application behavior, and exploring offensive security techniques. My work revolves around API security, web application security, penetration testing, and security research.
 
-## Objective
+## Objective🎯
 I'm particularly interested in gaining practical experience in penetration testing and application security, while expanding my knowledge across different areas of offensive security. My long-term ambition is to become a highly capable red team operator with the technical depth and versatility to approach security from an adversarial perspective.
 
 The goal: become the final boss of red teaming.
 
-## Projects
+## Projects🗒️
 API Security Assessment — OWASP API Security Top 10
 
 Conducted a hands-on security assessment of a vulnerable API application, systematically testing for vulnerabilities across all ten categories of the OWASP API Security Top 10.
@@ -22,7 +22,7 @@ Focus: API Penetration Testing | OWASP API Security Top 10 | Vulnerability Asses
 
 Documentation: <a href="">Read the Full Assessment & Findings</a>
 
-## Skills
+## Skills🤹‍♂️
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
