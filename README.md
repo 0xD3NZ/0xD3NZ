@@ -32,7 +32,7 @@ Linux & Infrastructure Security
 ## Projects & Practical Work🗒️
 
 ## Certifications🔓
-<a href="https://www.credly.com/badges/79235a70-68c0-4e3b-82ac-c8f05128c9ee/linked_in_profile"><img src="https://img.shields.io/badge/APIsec-ACP%20Certified-00A6A6?style=for-the-badge&logo=hackthebox&logoColor=white" /></a> <img src="https://img.shields.io/badge/APIsec-OWASP%20API%20Top%2010%20Certified-00A6A6?style=for-the-badge&logo=owasp&logoColor=white" /> <img src="https://img.shields.io/badge/APIsec-API%20Penetration%20Testing%20Certified-00A6A6?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<a href="https://www.credly.com/badges/79235a70-68c0-4e3b-82ac-c8f05128c9ee/linked_in_profile"><img src="https://img.shields.io/badge/APIsec-ACP%20Certified-00A6A6?style=for-the-badge&logo=hackthebox&logoColor=white" /></a> <a href="https://www.credly.com/earner/earned/badge/8fcb26d9-e68b-49cd-a191-d9699064302f"><img src="https://img.shields.io/badge/APIsec-OWASP%20API%20Top%2010%20Certified-00A6A6?style=for-the-badge&logo=owasp&logoColor=white" /></a> <a href="https://www.credly.com/earner/earned/share/5aaca96d-e71d-405f-b6fb-12d313bf59df"><img src="https://img.shields.io/badge/APIsec-API%20Penetration%20Testing%20Certified-00A6A6?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
 
 
 
