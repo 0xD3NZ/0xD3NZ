@@ -20,7 +20,7 @@ Produced structured vulnerability write-ups containing descriptions, severity as
 
 Focus: API Penetration Testing | OWASP API Security Top 10 | Vulnerability Assessment | Security Reporting
 
-Documentation: Read the Full Assessment & Findings
+Documentation: <a href="">Read the Full Assessment & Findings</a>
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
